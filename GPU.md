@@ -4,8 +4,6 @@ AN5D[https://github.com/khaki3/AN5D-Artifact]
 StencilGen[https://github.com/pssrawat/IEEE2017]
 - Temporal Blocking
 
-- Temporal Blocking 
-
 Bricks[https://bitbucket.org/ztuowen/vecscatter-artifact/src/master/]
 - CodeGen
 
