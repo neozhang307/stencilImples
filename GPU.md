@@ -9,7 +9,7 @@
 - Temporal Blocking
 
 # ARTEMIS
-CODE(https://github.com/pssrawat/artemis) \
+[CODE](https://github.com/pssrawat/artemis) \
 [Paper(IPDPS)](https://ieeexplore.ieee.org/document/8820786)
 Autotuning + StencilGen
 - Autotune
