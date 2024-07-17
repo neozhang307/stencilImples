@@ -21,8 +21,13 @@ EBISU[https://github.com/neozhang307/EBISU-ICS23]
 - PERKS
 
 ConvStencil[https://github.com/microsoft/ConvStencil]
-- TensorCore
+- Tensor Core
+- Tensor Core level Temporal Blocking 
 
 TCStencil[https://github.com/buaa-hipo/TCStencil]
-- TensorCore
+- Tensor Core
 - CodeGen
+
+Bricks[https://bitbucket.org/ztuowen/vecscatter-artifact/src/master/]
+- CodeGen
+
