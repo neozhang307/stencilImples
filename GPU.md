@@ -39,18 +39,20 @@ Autotuning + StencilGen
 - Tensor Core level Temporal Blocking 
 
 # TCStencil
-[CODE](https://github.com/buaa-hipo/TCStencil) \ 
+[CODE](https://github.com/buaa-hipo/TCStencil)\
 [Paper(ICS)](https://dl.acm.org/doi/abs/10.1145/3524059.3532392)
 - Tensor Core
 - CodeGen
+
 
 # DRStencil
 [CODE](https://github.com/simple86/DRStencil)\
 [Paper](https://ieeexplore.ieee.org/document/9780952)
 - CodeGen
 - Temporal Blocking
-
+- Not SOTA (personal opinion)
+  
 # Maruyama
-[CODE](https://github.com/naoyam/benchmarks)
+[CODE](https://github.com/naoyam/benchmarks) \
 [Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbcff3902d71c2ea6d889fa2c44bada0d56d6b1)
 - Several optimizations
