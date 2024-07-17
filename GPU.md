@@ -32,6 +32,6 @@ Autotuning + StencilGen
 - CodeGen
 - Temporal Blocking
 
-# [Optimizations(from Naoyama)](https://github.com/naoyam/benchmarks)
+# [Optimizations](https://github.com/naoyam/benchmarks)
 [Check this](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbcff3902d71c2ea6d889fa2c44bada0d56d6b1)
 - Several optimizations
